@@ -1,0 +1,5 @@
+Download data from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+Place test data in this folder:
+data/toxicity/test.csv
+data/toxicity/test_labels.csv
+data/toxicity/train.csv

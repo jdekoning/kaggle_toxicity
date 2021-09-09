@@ -1,3 +1,6 @@
+### Notice
+I have forked [this repo](https://github.com/artificially-ai/kaggle_toxicity) to reupload the docker contains as the old ones were not available anymore.
+
 # Kaggle - Toxicity Challenge
 
 This repositoru aims to share some of the code I wrote for the [Toxicity Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).

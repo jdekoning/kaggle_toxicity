@@ -1,4 +1,4 @@
-FROM ekholabs/nvidia-cuda
+FROM jdkoning/nvidia-cuda
 
 MAINTAINER Wilder Rodrigues <wilder.rodrigues@ekholabs.ai>
 
